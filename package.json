@@ -1,0 +1,23 @@
+{
+  "name": "cep-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhm7/cep-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhm7/cep-api/issues"
+  },
+  "homepage": "https://github.com/victorhm7/cep-api#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
